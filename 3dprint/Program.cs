@@ -12,7 +12,7 @@ Swagger.DefineEndpoints(app);
 
 app.MapGet("/HelloWorld", () =>
 {
-    return $"msStateMachine : 0.0.0 : {DateTime.Now}";
+    return $"ms3dprintMachine : 0.0.0 : {DateTime.Now}";
 }).AllowAnonymous();
 
 

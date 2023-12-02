@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ander\\Desktop\\school\\3dprint\\3dprint.csproj",
+      "projectUniqueName": "C:\\Users\\ander\\Desktop\\school\\school3DPrint\\3dprint\\3dprint.csproj",
       "projectName": "3dprint",
-      "projectPath": "C:\\Users\\ander\\Desktop\\school\\3dprint\\3dprint.csproj",
+      "projectPath": "C:\\Users\\ander\\Desktop\\school\\school3DPrint\\3dprint\\3dprint.csproj",
       "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ander\\Desktop\\school\\3dprint\\obj\\",
+      "outputPath": "C:\\Users\\ander\\Desktop\\school\\school3DPrint\\3dprint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
